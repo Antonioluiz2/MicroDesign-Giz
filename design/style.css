@@ -362,10 +362,11 @@
     #form-box button {
       width: 100%;
     }
-  #and{
+  }
+  
+ footer{
     text-align: center;
     color: #FFF7CC;
     background-color: rgba(23, 23, 243, 0.74);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-  }
